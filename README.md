@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sudheer-chundru
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently pursuing post graduation diploma in Data Science and I am a IT professional
+- 👀 I’m intrested in Data Science
 - 💞️ I’m looking to collaborate on Data Science and ML projects
 - 📫 How to reach me - sudheer19chundru@gmail.com
 
